@@ -14,3 +14,4 @@ def fileTranslate(num):
         elif(line[0:2] == "PD"):
             perevod(num, i, int(line[2:7]), int(line[8:13]), 1)
             i += 1
+#git test
